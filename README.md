@@ -19,7 +19,7 @@ Experienced in **web development and AI-powered applications**, with a keen inte
 
 **VIT Bhopal University (2023 – 2027)**
 B.Tech in Computer Science and Engineering (Cloud Computing)
-CGPA: 7.39
+CGPA: 7.69
 
 **Delhi Public School, Kalyanpur (2023)**
 Class XII: 76.8% | Class X: 90.2%
